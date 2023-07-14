@@ -1,0 +1,1 @@
+<h2>inner page for user</h2>
